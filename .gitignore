@@ -1,0 +1,4 @@
+Manifest.toml
+assets/
+.vscode/
+deps/build.log
